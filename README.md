@@ -33,5 +33,7 @@ The application will automatically open in your default browser once the server 
 ## Built With
 
 * [React.js](https://reactjs.org/)
+* [Axios](https://www.npmjs.com/package/axios) - for Api calls.
+* [Redux](https://redux.js.org/) - for client side data management.
 
 
